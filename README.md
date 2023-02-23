@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aizardar, currently working as a Data Scientist. 
+- 👋 Hi, I’m @aizardar, currently working as a Data Scientist/Engineer.
 - 👀 I’m interested in sharing my work, insights and expertise on data science.
 - 🌱 I’m always in the learning mode. 
 
