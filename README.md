@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aizardar, currently working as a Data Scientist/Engineer with a PhD in Computational Materials Science. 
-- 👀 I’m interested in sharing my work, insights and expertise on data science.
+- 👋 Hi, I’m @aizardar, currently working as a Data Engineer (Application Specialist) with a PhD in Computational Materials Science. 
+- 👀 I’m interested in sharing my work, insights and expertise on research data management and data engineering.
 - 🌱 I’m always in the learning mode. 
 
 <!---
